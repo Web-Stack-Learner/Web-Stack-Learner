@@ -1,5 +1,5 @@
 
-<img src="https://avatars.githubusercontent.com/u/89929036?v=4">
+<img style="width:10rem" src="https://avatars.githubusercontent.com/u/89929036?v=4">
 
 <h2> Hey there! I'm Borhan U.</h2>
 
