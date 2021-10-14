@@ -44,9 +44,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/">https://img.shields.io/badge/Portfolio-Web--Stack--Learner-yellowgreen</a>
-<a href="https://www.linkedin.com/in/Web-Stack-Learner/">https://img.shields.io/badge/linkedin-Web--Stack--Learner-brightgreen</a>
-<a href="mailto:borhan.dev@gmail.com">https://img.shields.io/badge/Email-Web--Stack--Learner-yellow</a>
+<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-Web--Stack--Learner-yellowgreen"/></a>
+<a href="https://www.linkedin.com/in/Web-Stack-Learner/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-Web--Stack--Learner-brightgreen"/></a>
+<a href="mailto:borhan.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Web--Stack--Learner-yellow"/></a>
 </p>
 
 ⭐️ From [Web-Stack-Learner](https://github.com/Web-Stack_learner)
