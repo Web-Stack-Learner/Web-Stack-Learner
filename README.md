@@ -8,7 +8,7 @@ _NOTE: Top languages are all about a metric by GitHub itself, which basically in
 
 ---
 
-### 👋 Hi there, I'm Mubasshir Ahmed
+### 👋 Hi there, I'm Borhan Uddin
 
 ### Technology Stack:
 
@@ -19,17 +19,12 @@ _NOTE: Top languages are all about a metric by GitHub itself, which basically in
     <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">
 </code>
 <code>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/react-native/react-native.png">
-</code>
-<code>
     <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
 </code>
 <code>
     <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png">
 </code>
-<code>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
-</code>
+
 
 ---
 
