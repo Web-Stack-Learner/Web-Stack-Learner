@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Web-Stack-Learner&show_icons=true&count_private=true&theme=nightowl" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Stack-Learner&theme=nightowl" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Web-Stack-Learner&theme=nightowl" />
+    <img src="https://github-readme-stats.vercel.app/api?username=WebStackLearner&show_icons=true&count_private=true&theme=nightowl" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebStackLearner&theme=nightowl" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=WebStackLearner&theme=nightowl" />
 </div>
 
 _NOTE: Top languages are all about a metric by GitHub itself, which basically indicates on which languages I have coded the most on GitHub._
